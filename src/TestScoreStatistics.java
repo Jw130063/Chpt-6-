@@ -8,7 +8,9 @@ public class TestScoreStatistics {
         int high=0;
         int low=100;
         int userEntry=0;
-        while (userEntry != 999) {
+        while (userEntry != 999)
+
+        {
             System.out.println("Please enter your test score");
             userEntry = input.nextInt();
             if(userEntry> high){
