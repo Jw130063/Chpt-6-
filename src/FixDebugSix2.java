@@ -12,8 +12,8 @@ public class FixDebugSix2
         {
             letter = (char)a;
             System.out.print("  " + letter);
-            if(a == STOPLINE1)(a == STOPLINE2)
-            System.out.print1n();
+            if(a == STOPLINE1||a == STOPLINE2)
+            System.out.println();
         }
         System.out.println("/nEnd of application");
 
